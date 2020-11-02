@@ -1,5 +1,5 @@
 # german planck keyboard
 
-All files I diduse to create my own plank keyboard.
+All files I did use to create my own plank keyboard.
 
 
